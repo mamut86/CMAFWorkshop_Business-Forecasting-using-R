@@ -1,8 +1,6 @@
 Practitioner Workshop on Business Forecasting using R are we there yet?
-
-Centre for Marketing Analytics and Forecasting
 =====
-This workshop looked into the opportunities that R offers to companies for conducting predictive analytics tasks, the road to implementation and potential obstacles.
+This workshop, provided by the [Centre for Marketing Analytics and Forecasting](https://www.lancaster.ac.uk/lums/research/research-centres--areas/centre-for-marketing-analytics-and-forecasting/) at Lancaster University, looked into the opportunities that R offers to companies for conducting predictive analytics tasks, the road to implementation and potential obstacles.
 
 This gitHub repository contains all slides and the workshop tutorial.
 
