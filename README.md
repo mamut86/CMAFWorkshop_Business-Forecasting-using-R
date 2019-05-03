@@ -1,4 +1,5 @@
 Practitioner Workshop on Business Forecasting using R are we there yet?
+
 Centre for Marketing Analytics and Forecasting
 =====
 This workshop looked into the opportunities that R offers to companies for conducting predictive analytics tasks, the road to implementation and potential obstacles.
